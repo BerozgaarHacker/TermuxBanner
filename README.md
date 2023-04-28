@@ -1,9 +1,8 @@
 # Termux Banner
-#Script by Parixit Sutariya
 
 ## Installation :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/BerozgaarHacker/TermuxBanner
 
 
 2) cd Termux-Banner
@@ -28,6 +27,10 @@
 
 2) Done !!!
 
+## Credit 
+<p>
+  <a href="https://github.com/Bhai4You/Termux-Banner">Credit</a>
+  </p>
 
 ## Tutorial :
 <p>
